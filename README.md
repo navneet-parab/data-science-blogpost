@@ -1,14 +1,14 @@
-## Table of Contents
+### Table of Contents
 1. Installation
 2. Project Motivation
 3. File Descriptions
 4. Results
 5. Licensing, Authors and Acknowledgments
 
-# Installation
+## Installation
 No extra necessary libraries should be required beyond the Anaconda distribution of Python. The code should run fine with no issues using Python (versions 3.\*).
 
-# Project Motivation
+## Project Motivation
 For this project, I wanted to study the trends of various AirBnb bookings throughout the year. I used the data for the year 2016 and attempted to answer the following questions:
 1. What are the busiest times of the year to visit Seattle? 
 2. By how much do prices spike throughout the year?
@@ -16,13 +16,13 @@ For this project, I wanted to study the trends of various AirBnb bookings throug
 
 The dataset for this project has been acquired from Kaggle.
 
-# File Descriptions
+## File Descriptions
 There is one single jupyter notebook that process the dataset (csv file) and answers all the questions mentioned in the Project Motivation section. The notebook is self-explanatory and markdown cells have been used to guide through the thought process.
 
-# Results
+## Results
 The main findings of the code can be found at the post available here.
 
-# Licensing, Authors and Acknowledgments
+## Licensing, Authors and Acknowledgments
 Must give credit to Kaggle and AirBnb-Udacity for the data. The data can be found here. Otherwise, feel free to use the code here as you would like!
 
 
