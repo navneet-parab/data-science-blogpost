@@ -1,5 +1,5 @@
 ### Table of Contents
-1. Installation
+1. [Installation](https://github.com/navneet-parab/data-scientist-nanodegree-udacity/blob/main/README.md#installation)
 2. Project Motivation
 3. File Descriptions
 4. Results
