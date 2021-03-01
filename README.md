@@ -23,6 +23,6 @@ There is one single jupyter notebook that process the dataset (csv file) and ans
 The main findings of the code can be found at the post available here.
 
 ## Licensing, Authors and Acknowledgments
-Must give credit to Kaggle and AirBnb-Udacity for the data. The data can be found here. Otherwise, feel free to use the code here as you would like!
+Must give credit to Kaggle and AirBnb-Udacity for the data. The data can be found [here](https://www.kaggle.com/airbnb/seattle?select=calendar.csv). Otherwise, feel free to use the code here as you would like!
 
 
