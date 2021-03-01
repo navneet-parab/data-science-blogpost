@@ -1,9 +1,9 @@
 ### Table of Contents
 1. [Installation](https://github.com/navneet-parab/data-scientist-nanodegree-udacity/blob/main/README.md#installation)
-2. [Project Motivation](https://github.com/navneet-parab/data-scientist-nanodegree-udacity/blob/main/README.md#project_motivation)
-3. [File Descriptions]()
-4. [Results]()
-5. [Licensing, Authors and Acknowledgments]()
+2. [Project Motivation](https://github.com/navneet-parab/data-scientist-nanodegree-udacity/blob/main/README.md#project-motivation)
+3. [File Descriptions](https://github.com/navneet-parab/data-scientist-nanodegree-udacity/blob/main/README.md#file-descriptions)
+4. [Results](https://github.com/navneet-parab/data-scientist-nanodegree-udacity/blob/main/README.md#results)
+5. [Licensing, Authors and Acknowledgments](https://github.com/navneet-parab/data-scientist-nanodegree-udacity/blob/main/README.md#licensing,-authors-and-acknowledgments)
 
 ## Installation
 No extra necessary libraries should be required beyond the Anaconda distribution of Python. The code should run fine with no issues using Python (versions 3.\*).
