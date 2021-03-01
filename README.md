@@ -20,7 +20,7 @@ The dataset for this project has been acquired from Kaggle.
 There is one single jupyter notebook that process the dataset (csv file) and answers all the questions mentioned in the Project Motivation section. The notebook is self-explanatory and markdown cells have been used to guide through the thought process.
 
 ## Results
-The main findings of the code can be found at the post available here.
+The main findings of the code can be found at the post available [here](https://medium.com/@navneetparab/the-perfect-time-of-the-year-to-stay-in-seattle-f58b0c87326f).
 
 ## Licensing, Authors and Acknowledgments
 Must give credit to Kaggle and AirBnb-Udacity for the data. The data can be found [here](https://www.kaggle.com/airbnb/seattle?select=calendar.csv). Otherwise, feel free to use the code here as you would like!
